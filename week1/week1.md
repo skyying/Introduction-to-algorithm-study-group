@@ -30,7 +30,7 @@ current = 58
 26, 31, 41, 41, 58, 59
 ```
 
-
+<br>
 
 ## 2.1-2
 
@@ -65,6 +65,7 @@ def insertionSort(arr):
     return arr
 ```
 
+<br>
 
 ## 2.1-3
 
@@ -83,6 +84,7 @@ def isValue(A, x):
 
 ```
 
+<br>
 
 ## 2.1-4
 
@@ -96,6 +98,7 @@ adding the two integers.
 @param a [1, 0, 1, 0]
 @param b [0, 1, 1, 1]
 @return c [1, 0, 0, 0, 1]
+
 function addTwoBinaryInteger(a, b){
     let carry = 0;
     let c = [];
@@ -122,6 +125,6 @@ def addTwoBinaryInteger(a, b):
        return [1] + c
     return c
 
-addTwoBinaryInteger([1, 1, 1], [1, 1, 1]) // [1, 1, 1, 0]
+addTwoBinaryInteger([1, 1, 1], [1, 1, 1]) 
 
 ```
