@@ -1,5 +1,5 @@
 
-# Introduction to Algorithm
+# Introduction to Algorithm Study group
 
 
 ### Online PDF
