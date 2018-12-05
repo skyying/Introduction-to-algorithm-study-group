@@ -25,5 +25,6 @@
 * Date: 2018/12/5
 * Range: p23 - p29
 * Problem set: 2.2.1 - 2.2.4
-* Member: 
+* Member:  
+  * [Leslie - study note](./week2/leslie.md)
 
