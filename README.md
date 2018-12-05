@@ -27,4 +27,5 @@
 * Problem set: 2.2.1 - 2.2.4
 * Member:  
   * [Leslie - study note](./week2/leslie.md)
+  * [TaiHsin - study note](./week2/taihsin.md)
 
