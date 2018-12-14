@@ -27,4 +27,14 @@
 * Problem set: 2.2.1 - 2.2.4
 * Member:  
   * [Leslie - study note](./week2/leslie.md)
+  * [TaiHsin - study note](./week2/taihsin.md)
+
+#### Week3
+
+* Date: 2018/12/12 5 PM
+* Range: p29 - p39
+* Problem set: 2.3-1 - 2.3-7
+* Member:  
+  * [Leslie - study note](./week3/leslie.md)
+  * [TaiHsin - study note](./week3/taihsin.md)
 
